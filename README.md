@@ -1,8 +1,8 @@
 ![MasterHead](https://jayblues.com/images/slider5.jpg)
 <h1 align="center">Hi 👋, I'm Ishika Barak</h1>
-<h3 align="center">A CSE undergraduate | Front-end Developer | UI/UX Designer</h3>
+<h3 align="center">A CSE undergraduate | Full-Stack Web Developer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishtha1209&label=Profile%20views&color=0e75b6&style=flat" alt="nishtha1209" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=IshikaBarak2003&label=Profile%20views&color=0e75b6&style=flat" alt="IshikaBarak2003" /> </p>
 
 - 🌱 I’m currently learning **React.js, Data Structures and Algorithms, and Back - end Web Development**
 

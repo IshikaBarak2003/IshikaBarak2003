@@ -10,7 +10,7 @@
 
 - 👨‍💻 Core Team Member at Mozilla FireFox,Anterix Club VITB.
 
-- 💬 Ask me about ** Programming in Java, Front - end Development**
+- 💬 Ask me about ** Programming in Java, Python, Full-Stack Web Development**
 
 - 📫 How to reach me **ishikabarak@gmail.com**
 
